@@ -1,6 +1,6 @@
 Samples from THE OPEN SOURCE DRUM KIT by Real Music Media.
 
-THE OPEN SOURCE DRUM KIT by Real Music Media - www.realmusicmedia.net #Domain no longer works
+THE OPEN SOURCE DRUM KIT by Real Music Media - www.realmusicmedia.net **Domain no longer works**
 
 Please see this this thread on KVR for more info:
 https://www.kvraudio.com/forum/viewtopic.php?t=277132
