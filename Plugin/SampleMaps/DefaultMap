@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="DefaultMap" RRGroupAmount="1.0" MicPositions=";" SaveMode="2">
+  <sample Root="36" LoKey="36" HiKey="36" LoVel="0" HiVel="4" RRGroup="1"
+          FileName="{PROJECT_FOLDER}kick/kick1.wav" Duplicate="0" SampleEnd="55043"
+          MonolithOffset="0" MonolithLength="57344" SampleRate="96000.0"/>
+  <sample Root="36" LoKey="36" HiKey="36" LoVel="5" HiVel="10" RRGroup="1"
+          FileName="{PROJECT_FOLDER}kick/kick2.wav" Duplicate="0" SampleEnd="53981"
+          MonolithOffset="57344" MonolithLength="57344" SampleRate="96000.0"/>
+  <sample Root="36" LoKey="36" HiKey="36" LoVel="11" HiVel="16" RRGroup="1"
+          FileName="{PROJECT_FOLDER}kick/kick3.wav" Duplicate="0" SampleEnd="58055"
+          MonolithOffset="114688" MonolithLength="61440" SampleRate="96000.0"/>
+  <sample Root="36" LoKey="36" HiKey="36" LoVel="17" HiVel="22" RRGroup="1"
+          FileName="{PROJECT_FOLDER}kick/kick4.wav" Duplicate="0" SampleEnd="62774"
+          MonolithOffset="176128" MonolithLength="65536" SampleRate="96000.0"/>
+  <sample Root="36" LoKey="36" HiKey="36" LoVel="23" HiVel="27" RRGroup="1"
+          FileName="{PROJECT_FOLDER}kick/kick5.wav" Duplicate="0" SampleEnd="62084"
+          MonolithOffset="241664" MonolithLength="65536" SampleRate="96000.0"/>
+  <sample Root="36" LoKey="36" HiKey="36" LoVel="28" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}kick/kick6.wav" Duplicate="0" SampleEnd="59070"
+          MonolithOffset="307200" MonolithLength="61440" SampleRate="96000.0"/>
+  <sample Root="36" LoKey="36" HiKey="36" LoVel="34" HiVel="39" RRGroup="1"
+          FileName="{PROJECT_FOLDER}kick/kick7.wav" Duplicate="0" SampleEnd="63661"
+          MonolithOffset="368640" MonolithLength="65536" SampleRate="96000.0"/>
+  <sample Root="36" LoKey="36" HiKey="36" LoVel="40" HiVel="45" RRGroup="1"
+          FileName="{PROJECT_FOLDER}kick/kick8.wav" Duplicate="0" SampleEnd="62912"
+          MonolithOffset="434176" MonolithLength="65536" SampleRate="96000.0"/>
+  <sample Root="36" LoKey="36" HiKey="36" LoVel="46" HiVel="50" RRGroup="1"
+          FileName="{PROJECT_FOLDER}kick/kick9.wav" Duplicate="0" SampleEnd="71418"
+          MonolithOffset="499712" MonolithLength="73728" SampleRate="96000.0"/>
+  <sample Root="36" LoKey="36" HiKey="36" LoVel="51" HiVel="56" RRGroup="1"
+          FileName="{PROJECT_FOLDER}kick/kick10.wav" Duplicate="0" SampleEnd="59006"
+          MonolithOffset="573440" MonolithLength="61440" SampleRate="96000.0"/>
+  <sample Root="36" LoKey="36" HiKey="36" LoVel="57" HiVel="62" RRGroup="1"
+          FileName="{PROJECT_FOLDER}kick/kick11.wav" Duplicate="0" SampleEnd="55906"
+          MonolithOffset="634880" MonolithLength="57344" SampleRate="96000.0"/>
+  <sample Root="36" LoKey="36" HiKey="36" LoVel="63" HiVel="68" RRGroup="1"
+          FileName="{PROJECT_FOLDER}kick/kick12.wav" Duplicate="0" SampleEnd="62417"
+          MonolithOffset="692224" MonolithLength="65536" SampleRate="96000.0"/>
+  <sample Root="36" LoKey="36" HiKey="36" LoVel="69" HiVel="74" RRGroup="1"
+          FileName="{PROJECT_FOLDER}kick/kick13.wav" Duplicate="0" SampleEnd="53733"
+          MonolithOffset="757760" MonolithLength="57344" SampleRate="96000.0"/>
+  <sample Root="36" LoKey="36" HiKey="36" LoVel="75" HiVel="79" RRGroup="1"
+          FileName="{PROJECT_FOLDER}kick/kick14.wav" Duplicate="0" SampleEnd="58760"
+          MonolithOffset="815104" MonolithLength="61440" SampleRate="96000.0"/>
+  <sample Root="36" LoKey="36" HiKey="36" LoVel="80" HiVel="85" RRGroup="1"
+          FileName="{PROJECT_FOLDER}kick/kick15.wav" Duplicate="0" SampleEnd="63979"
+          MonolithOffset="876544" MonolithLength="65536" SampleRate="96000.0"/>
+  <sample Root="36" LoKey="36" HiKey="36" LoVel="86" HiVel="91" RRGroup="1"
+          FileName="{PROJECT_FOLDER}kick/kick16.wav" Duplicate="0" SampleEnd="62814"
+          MonolithOffset="942080" MonolithLength="65536" SampleRate="96000.0"/>
+  <sample Root="36" LoKey="36" HiKey="36" LoVel="92" HiVel="97" RRGroup="1"
+          FileName="{PROJECT_FOLDER}kick/kick17.wav" Duplicate="0" SampleEnd="73414"
+          MonolithOffset="1007616" MonolithLength="73728" SampleRate="96000.0"/>
+  <sample Root="36" LoKey="36" HiKey="36" LoVel="98" HiVel="102" RRGroup="1"
+          FileName="{PROJECT_FOLDER}kick/kick18.wav" Duplicate="0" SampleEnd="59252"
+          MonolithOffset="1081344" MonolithLength="61440" SampleRate="96000.0"/>
+  <sample Root="36" LoKey="36" HiKey="36" LoVel="103" HiVel="108" RRGroup="1"
+          FileName="{PROJECT_FOLDER}kick/kick19.wav" Duplicate="0" SampleEnd="72948"
+          MonolithOffset="1142784" MonolithLength="73728" SampleRate="96000.0"/>
+  <sample Root="36" LoKey="36" HiKey="36" LoVel="109" HiVel="114" RRGroup="1"
+          FileName="{PROJECT_FOLDER}kick/kick20.wav" Duplicate="0" SampleEnd="68794"
+          MonolithOffset="1216512" MonolithLength="69632" SampleRate="96000.0"/>
+  <sample Root="36" LoKey="36" HiKey="36" LoVel="115" HiVel="120" RRGroup="1"
+          FileName="{PROJECT_FOLDER}kick/kick21.wav" Duplicate="0" SampleEnd="71855"
+          MonolithOffset="1286144" MonolithLength="73728" SampleRate="96000.0"/>
+  <sample Root="36" LoKey="36" HiKey="36" LoVel="121" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}kick/kick22.wav" Duplicate="0" SampleEnd="67202"
+          MonolithOffset="1359872" MonolithLength="69632" SampleRate="96000.0"/>
+</samplemap>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ProjectSettings>
-  <Name value="the-open-source-drums"/>
-  <Version value="0.0.1"/>
-  <Description value="an open source drums vst with public domain samples"/>
-  <BundleIdentifier value="com.opensourcedrums.plugin"/>
+  <Name value="The Open Source Drums"/>
+  <Version value="0.1.0"/>
+  <Description value="A Free and Open Source VST3 Drumset Plugin"/>
+  <BundleIdentifier value="com.OpenSourceDrums.plugin"/>
   <PluginCode value="Tosd"/>
   <EmbedAudioFiles value="Yes"/>
   <EmbedImageFiles value="Yes"/>
-  <SupportFullDynamicsHLAC value="No"/>
+  <SupportFullDynamicsHLAC value="1"/>
   <AdditionalDspLibraries value=""/>
   <OSXStaticLibs value=""/>
   <WindowsStaticLibFolder value=""/>
@@ -17,11 +17,11 @@
   <ExtraDefinitionsIOS value=""/>
   <ExtraDefinitionsLinux value=""/>
   <AppGroupID value=""/>
-  <RedirectSampleFolder value="/home/simon/Schreibtisch/the-open-source-drumkit/samples"/>
+  <RedirectSampleFolder value=""/>
   <AAXCategoryFX value="AAX_ePlugInCategory_Modulation"/>
   <SupportMonoFX value="No"/>
   <EnableMidiInputFX value="1"/>
-  <EnableMidiOut value="0"/>
+  <EnableMidiOut value="No"/>
   <EnableSoundGeneratorsFX value="No"/>
   <VST3Support value="1"/>
   <UseRawFrontend value="No"/>
